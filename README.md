@@ -1,4 +1,4 @@
 TheArmory
 =========
 
-Repo for The Armory
+This is the repo for The Armory
